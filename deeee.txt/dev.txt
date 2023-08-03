@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AE8C-8215
+
+ Directory of C:\Users\manda\OneDrive\Desktop\git project\deeee.txt
+
+08/03/2023  10:09 AM    <DIR>          .
+08/03/2023  10:07 AM    <DIR>          ..
+08/03/2023  10:09 AM                 0 dev.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  104,631,672,832 bytes free
